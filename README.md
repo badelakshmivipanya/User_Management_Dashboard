@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a **User Management Dashboard** built using React and a mock backend API. The dashboard allows users to view, add, edit, and delete user details from a mock backend. This project uses **JSONPlaceholder** API to simulate user data.
+This is a **User Management Dashboard** built using javascript(React),HTML,CSS and a mock backend API. The dashboard allows users to view, add, edit, and delete user details from a mock backend. This project uses **JSONPlaceholder** API to simulate user data.
 
 ## Table of Contents
 
